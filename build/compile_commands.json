@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/rxd/python/build",
+  "command": "/usr/bin/g++   -I.././lib  -g   -o CMakeFiles/test.dir/main.cpp.o -c /home/rxd/python/main.cpp",
+  "file": "/home/rxd/python/main.cpp"
+},
+
+{
+  "directory": "/home/rxd/python/build",
+  "command": "/usr/bin/g++   -I.././lib  -g   -o CMakeFiles/test1.dir/main.cpp.o -c /home/rxd/python/main.cpp",
+  "file": "/home/rxd/python/main.cpp"
+},
+
+{
+  "directory": "/home/rxd/python/build",
+  "command": "/usr/bin/g++   -I.././lib  -g   -o lib/CMakeFiles/lib.dir/add.cpp.o -c /home/rxd/python/lib/add.cpp",
+  "file": "/home/rxd/python/lib/add.cpp"
+}
+]
